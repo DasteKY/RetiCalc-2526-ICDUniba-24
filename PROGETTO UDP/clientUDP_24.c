@@ -152,5 +152,7 @@ int main() {
     
     printf("\nProcesso client terminato\n");
     
+        system("pause");
+
     return 0;
 }

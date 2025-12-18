@@ -113,5 +113,7 @@ int main() {
     
     printf("Connessione chiusa.\n");
     
+    system("pause");
+
     return 0;
 }
